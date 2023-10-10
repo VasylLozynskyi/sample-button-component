@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+  display: flex;
+  gap: 20px;
+  height: 100vh;
+}
+aside, main{
+  padding: 10px;
+}
+aside{
+  border-right: 1px solid #282c34;
 }
 
 .App-logo {
